@@ -1,0 +1,18 @@
+{
+  "author": "Erik Hedberg ",
+  "name": "salarybot",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/gish/salarybot"
+  },
+  "main": "./lib/main",
+  "dependencies": {},
+  "devDependencies": {
+    "twit": "~1.1.11",
+    "node-promise": "~0.5.8"
+    },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
