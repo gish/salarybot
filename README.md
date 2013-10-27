@@ -4,7 +4,8 @@ A Twitterbot that will tweet in how many days you will get your salary.
 
 The intention of this project was to write a Twitterbot in 30 mins. It took 45.
 
-## Config
+## Usage
+### Step 1
 Create the file `lib/config.js` with the following info
 
     var config = {
@@ -15,6 +16,9 @@ Create the file `lib/config.js` with the following info
     };
 
     module.exports = config;
+
+### Step 2
+Run `lib/app.js`
 
 
 ## Changelog
