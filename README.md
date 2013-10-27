@@ -22,5 +22,13 @@ Run `lib/app.js`
 
 
 ## Changelog
+### v0.0.2
+* Change tweets to Swedish
+
 ### v0.0.1
 * First version
+
+
+## Todo
+* Create scheduler to automate daily tweets, http://nodejs.org/api/process.html#process_process_nexttick_callback
+* Add different messages for variation
