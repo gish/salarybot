@@ -22,6 +22,10 @@ Run `lib/app.js`
 
 
 ## Changelog
+### v0.1.0
+* Add more messages for variation
+* Create scheduler to post every day at 9:30
+
 ### v0.0.2
 * Change tweets to Swedish
 
@@ -30,5 +34,4 @@ Run `lib/app.js`
 
 
 ## Todo
-* Create scheduler to automate daily tweets, http://nodejs.org/api/process.html#process_process_nexttick_callback
-* Add different messages for variation
+* Distribute tweets during the day
